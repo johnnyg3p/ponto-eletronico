@@ -51,8 +51,9 @@
             <artifactId>mysql-connector-java</artifactId>
         </dependency>
         <dependency>
-            <groupId>java.h2database</groupId>
+            <groupId>com.h2database</groupId>
             <artifactId>h2</artifactId>
+            <version>1.4.197</version>
         </dependency>
         <dependency>
             <groupId>org.flyway</groupId>
